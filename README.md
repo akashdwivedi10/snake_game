@@ -15,6 +15,6 @@ Installing The Pygame Module:
 
 
 * Follow Me On Instagram at [Akash Dwivedi](https://www.instagram.com/akash_dwivedi10)
-* For any quories or Email at [akash14dwivedi@gmail.com]
+* For any quories  Email at [akash14dwivedi@gmail.com]
 
 ### ThankYou!
